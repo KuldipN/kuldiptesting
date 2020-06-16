@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mutiremote/static/css/main.523f09c5.chunk.css",
+    "main.js": "/mutiremote/static/js/main.25c49b7a.chunk.js",
+    "main.js.map": "/mutiremote/static/js/main.25c49b7a.chunk.js.map",
+    "runtime-main.js": "/mutiremote/static/js/runtime-main.824552bf.js",
+    "runtime-main.js.map": "/mutiremote/static/js/runtime-main.824552bf.js.map",
+    "static/js/2.b072d574.chunk.js": "/mutiremote/static/js/2.b072d574.chunk.js",
+    "static/js/2.b072d574.chunk.js.map": "/mutiremote/static/js/2.b072d574.chunk.js.map",
+    "index.html": "/mutiremote/index.html",
+    "precache-manifest.0460031dd1d60dea82efca0330c87ca0.js": "/mutiremote/precache-manifest.0460031dd1d60dea82efca0330c87ca0.js",
+    "service-worker.js": "/mutiremote/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/mutiremote/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.b072d574.chunk.js.LICENSE.txt": "/mutiremote/static/js/2.b072d574.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mutiremote/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.824552bf.js",
+    "static/js/2.b072d574.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.25c49b7a.chunk.js"
+  ]
+}
