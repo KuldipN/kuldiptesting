@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import UseEffect from "./Components/useEffect"
-ReactDOM.render(<UseEffect/>, document.getElementById('root'));
+import Resizer from './Components/Resizer'
+ReactDOM.render(<App/>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

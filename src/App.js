@@ -1,24 +1,19 @@
-import React from 'react';
+import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import UseEffectExample from './Components/useEffect';
+import Resizer from './Components/Resizer';
 function App() {
+
+  const [isVisibleMyComponent, setVisibility] = useState(true)
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello There
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <button onClick={() => setVisibility(!isVisibleMyComponent)}>Toggle Visibility of Resizer Component</button>
+      {
+        isVisibleMyComponent && <Resizer />
+      }
+      
     </div>
   );
 }
