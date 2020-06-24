@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kuldiptesting/static/css/main.523f09c5.chunk.css",
-    "main.js": "/kuldiptesting/static/js/main.852c4c30.chunk.js",
-    "main.js.map": "/kuldiptesting/static/js/main.852c4c30.chunk.js.map",
+    "main.js": "/kuldiptesting/static/js/main.bfa3a069.chunk.js",
+    "main.js.map": "/kuldiptesting/static/js/main.bfa3a069.chunk.js.map",
     "runtime-main.js": "/kuldiptesting/static/js/runtime-main.b9681f80.js",
     "runtime-main.js.map": "/kuldiptesting/static/js/runtime-main.b9681f80.js.map",
     "static/js/2.3c9abf3e.chunk.js": "/kuldiptesting/static/js/2.3c9abf3e.chunk.js",
     "static/js/2.3c9abf3e.chunk.js.map": "/kuldiptesting/static/js/2.3c9abf3e.chunk.js.map",
     "index.html": "/kuldiptesting/index.html",
-    "precache-manifest.17d6de0097cf303fdb9c88b7a9dede8d.js": "/kuldiptesting/precache-manifest.17d6de0097cf303fdb9c88b7a9dede8d.js",
+    "precache-manifest.ca2ea45e1e675f04e1dc843e240e38c9.js": "/kuldiptesting/precache-manifest.ca2ea45e1e675f04e1dc843e240e38c9.js",
     "service-worker.js": "/kuldiptesting/service-worker.js",
     "static/css/main.523f09c5.chunk.css.map": "/kuldiptesting/static/css/main.523f09c5.chunk.css.map",
     "static/js/2.3c9abf3e.chunk.js.LICENSE.txt": "/kuldiptesting/static/js/2.3c9abf3e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b9681f80.js",
     "static/js/2.3c9abf3e.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.852c4c30.chunk.js"
+    "static/js/main.bfa3a069.chunk.js"
   ]
 }
