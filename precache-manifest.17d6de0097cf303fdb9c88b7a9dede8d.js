@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e57d576bb1d782a74a68b538826418a9",
+    "revision": "3fe5c364afc057a5bf44f0e8f2efb835",
     "url": "/kuldiptesting/index.html"
   },
   {
-    "revision": "e7e9642a46dab5cf1b46",
+    "revision": "96465fde59fb876bbd43",
     "url": "/kuldiptesting/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kuldiptesting/static/js/2.3c9abf3e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7e9642a46dab5cf1b46",
-    "url": "/kuldiptesting/static/js/main.b0df2202.chunk.js"
+    "revision": "96465fde59fb876bbd43",
+    "url": "/kuldiptesting/static/js/main.852c4c30.chunk.js"
   },
   {
     "revision": "8e63ebf310f8ed9a7bc9",
